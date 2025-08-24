@@ -1,10 +1,10 @@
 # 👋 Olá, eu sou o Leonardo Brito  
 
-💻 **Profissional de TI | Inteligência de Dados | Monitoria de Qualidade**  
+💻 **Profissional de TI | Inteligência de Dados **  
 
 Sou apaixonado por **tecnologia e dados**, atualmente cursando **Análise e Desenvolvimento de Sistemas** no UniCEUB.  
 Minha trajetória profissional começou de forma humilde, aprendendo desde cedo que resiliência e aprendizado contínuo são as chaves para crescer.  
-Hoje, atuo com **inteligência de dados, monitoria de qualidade e otimização de processos**, transformando dados brutos em informações valiosas.  
+Hoje, atuo com **inteligência de dados, monitoria de qualidade e otimização de processos**, transformando dados brutos em insights valiosos.  
 
 ---
 
