@@ -11,7 +11,7 @@ Hoje, atuo com **inteligência de dados, monitoria de qualidade e otimização d
 ## 🚀 Sobre Mim  
 - 🎂 30 anos  
 - 🎯 Apaixonado por **tecnologia** desde sempre  
-- 📊 Foco em **Inteligência de Dados e Monitoria de Qualidade**  
+- 📊 Foco em **Inteligência de Dados e Desenvolvimento**  
 - 📍 Brasília - DF, Brasil  
 
 ---
