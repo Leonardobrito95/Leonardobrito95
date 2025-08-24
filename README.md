@@ -19,23 +19,16 @@ Hoje, atuo com **inteligência de dados, monitoria de qualidade e otimização d
 ## 🛠️ Habilidades  
 
 ### Linguagens & Frameworks  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)  
 
-### Análise de Dados & Visualização  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)  
+### Análise de Dados & Visualização 
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)  
 
 ### Bancos de Dados  
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
 
 ### Ferramentas  
-![CRM](https://img.shields.io/badge/CRM-0A66C2?style=for-the-badge&logo=hubspot&logoColor=white)  
-![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white)  
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-2E2E2E?style=for-the-badge&logo=python&logoColor=white)  
+![CRM](https://img.shields.io/badge/CRM-0A66C2?style=for-the-badge&logo=hubspot&logoColor=white)  ![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white)  ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-2E2E2E?style=for-the-badge&logo=python&logoColor=white)  
 
 ---
 
@@ -45,8 +38,7 @@ Hoje, atuo com **inteligência de dados, monitoria de qualidade e otimização d
 ---
 
 ## 📫 Como me encontrar  
-- LinkedIn: [linkedin.com/in/leonardobrito95](https://linkedin.com/in/leonardobrito95)  
-- Email: leonardo.matheus10@hotmail.com  
+- LinkedIn: [linkedin.com/in/leonardobrito95](https://linkedin.com/in/leonardobrito95)  - Email: leonardo.matheus10@hotmail.com  
 
 ---  
 ✨ *“Transformando desafios em oportunidades através da tecnologia.”*  
