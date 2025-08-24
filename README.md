@@ -1,37 +1,52 @@
-# 👋 Hello, I’m Leonardo Brito  
+# 👋 Olá, eu sou o Leonardo Brito  
 
-💻 **IT Professional | Data Intelligence | Quality Monitoring**  
+💻 **Profissional de TI | Inteligência de Dados | Monitoria de Qualidade**  
 
-I am passionate about **technology and data**, currently pursuing a degree in **Systems Analysis and Development** at UniCEUB.  
-My professional journey started from humble beginnings, and I learned that resilience and continuous learning are the keys to growth.  
-Today, I work with **data intelligence, quality monitoring, and process optimization**, transforming raw data into valuable insights.  
-
----
-
-## 🚀 About Me  
-- 🎂 30 years old  
-- 🎯 Passionate about **IT** since always  
-- 📊 Focused on **Data Intelligence & Programming**  
-- 📍 Based in Brasília - DF, Brazil  
+Sou apaixonado por **tecnologia e dados**, atualmente cursando **Análise e Desenvolvimento de Sistemas** no UniCEUB.  
+Minha trajetória profissional começou de forma humilde, aprendendo desde cedo que resiliência e aprendizado contínuo são as chaves para crescer.  
+Hoje, atuo com **inteligência de dados, monitoria de qualidade e otimização de processos**, transformando dados brutos em informações valiosas.  
 
 ---
 
-## 🛠️ Skills  
-- **Programming:** Python, JavaScript (Node.js)  
-- **Data Analysis:** Excel Advanced, Power BI, Pandas, Matplotlib  
-- **Databases:** SQLite, MySQL
-- **Other Tools:** CRM, ERP, CustomTkinter, Tkinter  
+## 🚀 Sobre Mim  
+- 🎂 30 anos  
+- 🎯 Apaixonado por **tecnologia** desde sempre  
+- 📊 Foco em **Inteligência de Dados e Monitoria de Qualidade**  
+- 📍 Brasília - DF, Brasil  
 
 ---
 
-## 📂 Featured Projects  
-- [📊 Quality Monitoring System](https://github.com/Leonardobrito95/monitoria-qualidade) – Python app for quality monitoring with dashboards and Excel reports  
+## 🛠️ Habilidades  
+
+### Linguagens & Frameworks  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)  
+
+### Análise de Dados & Visualização  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)  
+
+### Bancos de Dados  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
+
+### Ferramentas  
+![CRM](https://img.shields.io/badge/CRM-0A66C2?style=for-the-badge&logo=hubspot&logoColor=white)  
+![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white)  
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-2E2E2E?style=for-the-badge&logo=python&logoColor=white)  
 
 ---
 
-## 📫 How to reach me  
+## 📂 Projetos em Destaque  
+- [📊 Sistema de Monitoria de Qualidade](https://github.com/SEU-USUARIO/monitoria-qualidade) – Aplicação em Python para monitoria de qualidade com dashboards e relatórios em Excel  
+
+---
+
+## 📫 Como me encontrar  
 - LinkedIn: [linkedin.com/in/leonardobrito95](https://linkedin.com/in/leonardobrito95)  
 - Email: leonardo.matheus10@hotmail.com  
 
----
-✨ *“Transforming challenges into opportunities through technology.”*  
+---  
+✨ *“Transformando desafios em oportunidades através da tecnologia.”*  
