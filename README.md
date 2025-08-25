@@ -33,7 +33,7 @@ Hoje, atuo com **inteligência de dados, monitoria de qualidade e otimização d
 ---
 
 ## 📂 Projetos 
-- [📊 Sistema de Monitoria de Qualidade](https://github.com/SEU-USUARIO/monitoria-qualidade) – Aplicação em Python para monitoria de qualidade com dashboards e relatórios em Excel  
+- [📊 Sistema de Monitoria de Qualidade]([https://github.com/Leonardobrito95/Projeto-Monitoria]) – Aplicação em Python para monitoria de qualidade com dashboards e relatórios em Excel  
 
 ---
 
