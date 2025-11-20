@@ -2,9 +2,8 @@
 
 💻 **Profissional de TI | Inteligência de Dados **  
 
-Sou apaixonado por **tecnologia e dados**, atualmente cursando **Análise e Desenvolvimento de Sistemas** no UniCEUB.  
-Minha trajetória profissional começou de forma humilde, aprendendo desde cedo que resiliência e aprendizado contínuo são as chaves para crescer.  
-Hoje, atuo com **inteligência de dados, monitoria de qualidade e otimização de processos**, transformando dados brutos em insights valiosos.  
+Analista de Dados especializado em integração de APIs e automação de processos utilizando Python. Experiência em consultas e modelagem de dados em bancos NoSQL e MySQL, utilizo muito o SQLite para criar soluções eficientes para sistemas locais e de pequeno porte. Conhecimento em javascript, HTML e CSS, atuando também no desenvolvimento e manutenção de front-end em aplicações web.
+Focado em melhorias contínuas, boas práticas de programação e otimização de fluxos de trabalho. Interessado em evoluir constantemente, explorando novas tecnologias, abordagens de análise de dados e estratégias de automação para entregar resultados cada vez mais precisos e escaláveis.
 
 ---
 
