@@ -29,13 +29,6 @@ Focado em melhorias contínuas, boas práticas de programação e otimização d
 ### Ferramentas  
 ![CRM](https://img.shields.io/badge/CRM-0A66C2?style=for-the-badge&logo=hubspot&logoColor=white)  ![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white)  ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-2E2E2E?style=for-the-badge&logo=python&logoColor=white)  
 
----
-
-## 📂 Projetos 
-- [📊 Sistema de Monitoria de Qualidade](https://github.com/Leonardobrito95/Projeto-Monitoria) – Aplicação em Python para monitoria de qualidade com dashboards e relatórios em Excel  
-
----
-
 ## 📫 Como me encontrar  
 - LinkedIn: [linkedin.com/in/leonardobrito95](https://linkedin.com/in/leonardobrito95)  - Email: leonardo.matheus10@hotmail.com  
 
