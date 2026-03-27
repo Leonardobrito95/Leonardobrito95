@@ -1,21 +1,20 @@
-# 👋 Olá, eu sou o Leonardo Brito  
+# Olá, eu sou o Leonardo Brito  
 
-💻 **Profissional de TI | Inteligência de Dados **  
+ **Profissional de TI | Inteligência de Dados **  
 
 Analista de Dados especializado em integração de APIs e automação de processos utilizando Python. Experiência em consultas e modelagem de dados em bancos NoSQL e MySQL, utilizo muito o SQLite para criar soluções eficientes para sistemas locais e de pequeno porte. Conhecimento em javascript, HTML e CSS, atuando também no desenvolvimento e manutenção de front-end em aplicações web.
 Focado em melhorias contínuas, boas práticas de programação e otimização de fluxos de trabalho. Interessado em evoluir constantemente, explorando novas tecnologias, abordagens de análise de dados e estratégias de automação para entregar resultados cada vez mais precisos e escaláveis.
 
 ---
 
-## 🚀 Sobre Mim  
-- 🎂 30 anos  
-- 🎯 Apaixonado por **tecnologia** desde sempre  
-- 📊 Foco em **Inteligência de Dados e Desenvolvimento**  
-- 📍 Brasília - DF, Brasil  
+## Sobre Mim  
+- 30 anos  
+- Apaixonado por **tecnologia** desde sempre  
+- Foco em **Inteligência de Dados e Desenvolvimento**  
+- Brasília - DF, Brasil  
 
----
 
-## 🛠️ Habilidades  
+## SKILLS  
 
 ### Linguagens & Frameworks  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -29,8 +28,8 @@ Focado em melhorias contínuas, boas práticas de programação e otimização d
 ### Ferramentas  
 ![CRM](https://img.shields.io/badge/CRM-0A66C2?style=for-the-badge&logo=hubspot&logoColor=white)  ![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white)  ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-2E2E2E?style=for-the-badge&logo=python&logoColor=white)  
 
-## 📫 Como me encontrar  
+## Como me encontrar  
 - LinkedIn: [linkedin.com/in/leonardobrito95](https://linkedin.com/in/leonardobrito95)  - Email: leonardo.matheus10@hotmail.com  
 
 ---  
-✨ *“Transformando desafios em oportunidades através da tecnologia.”*  
+*“Transformando desafios em oportunidades através da tecnologia.”*  
