@@ -1,34 +1,43 @@
-# Olá, eu sou o Leonardo Brito
+# Leonardo Brito
 
-**Governança de TI e Dados | Analista de Dados | Desenvolvedor**
+Assistente de dados com foco em governança, automação e integração de sistemas. Trabalho no cruzamento entre dados e operação: construo ferramentas que substituem planilhas manuais, automatizam processos e conectam sistemas legados a novas camadas de análise.
 
-Atuo na equipe de Governança de TI e Dados, alinhando infraestrutura de tecnologia e inteligência de negócios. Sou graduando em Ciência de Dados e desenvolvo sistemas web e desktop, além de trabalhar com automação de processos e integração de APIs.
+A maioria dos projetos aqui nasceu de problemas reais que eu vi acontecer no dia a dia fechamento de comissão errado, manutenção de infraestrutura perdida, dado de atendimento espalhado em três ferramentas diferentes.
 
-Meu foco é a melhoria contínua, utilizando boas práticas de programação para otimizar fluxos de trabalho e criar soluções precisas e escaláveis para o ambiente corporativo.
+---
 
-## Sobre Mim
+## Projetos
 
-* Graduado em Ciência de Dados.
-* Desenvolvedor fullstack.
-* Experiência com back end (Python, Node.js, Flask) e front end / mobile (JavaScript, Vue.js, Next.js, Angular, Flutter, Dart).
-* Sólida atuação com bancos de dados relacionais e não relacionais.
-* Criação de dashboards corporativos e prototipagem de interfaces.
-* Localização: Brasília, DF, Brasil.
+**[Canaã Performance](https://github.com/Leonardobrito95/canaa-performance)**
+Sistema web para centralizar o registro e auditoria de comissões de múltiplas equipes (comercial, BDR, retenção e terceiras de campo). Integra ao ERP IXC via MariaDB para validar contratos em tempo real e eliminar divergências no fechamento mensal.
+`Node.js` `TypeScript` `Vue 3` `PostgreSQL` `MariaDB` `Docker`
 
-## Skills
+**[Sistema Vistoria POP](https://github.com/Leonardobrito95/sistema-vistoria-pop)**
+Gestão de vistorias e manutenção preventiva de 8 pontos de infraestrutura de rede. Gera pendências automaticamente a partir dos problemas identificados nas vistorias, monitora prazos de manutenção e envia alertas por e-mail quando algo está próximo do vencimento ou já venceu.
+`Python` `Flask` `PostgreSQL` `systemd`
 
-### Linguagens e Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+**[Dash CTO](https://github.com/Leonardobrito95/dash-cto)**
+Dashboard executivo de performance para Call Center, integrando dados de telefonia VoIP e WhatsApp. KPIs de atendimento, TMA, TME e performance por agente calculados via MongoDB Aggregation Pipeline.
+`Python` `FastAPI` `MongoDB`
 
-### Bancos de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) 
+**[Sistema Controle Cliente](https://github.com/Leonardobrito95/Sistema-Controle-Cliente)**
+Sistema de gestão de clientes e contratos.
+`C#`
 
-### Análise de Dados e Design
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+---
+
+## Stack
+
+```
+Python · Node.js · TypeScript · C#
+Flask · FastAPI · Express · Vue 3
+PostgreSQL · MongoDB · MariaDB
+Docker · systemd · ERP IXC
+```
+
+---
 
 ## Contato
 
-* LinkedIn: [linkedin.com/in/leonardobrito95](https://linkedin.com/in/leonardobrito95)
-* E-mail: leonardo.matheus10@hotmail.com
-
-"Transformando desafios em oportunidades através da tecnologia."
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-leonardobrito95-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/leonardobrito95/)
+[![Email](https://img.shields.io/badge/Email-leonardomatheus.soaresbrito%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:leonardomatheus.soaresbrito@gmail.com)
