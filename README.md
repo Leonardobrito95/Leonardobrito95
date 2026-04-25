@@ -40,4 +40,4 @@ Docker · systemd · ERP IXC
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-leonardobrito95-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/leonardobrito95/)
-[![Email](https://img.shields.io/badge/Email-leonardomatheus.soaresbrito%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:leonardomatheus.soaresbrito@gmail.com)
+[![Email](https://img.shields.io/badge/Email-leonardo.brito%40outlook.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:leonardo.brito@outlook.com)
