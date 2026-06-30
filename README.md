@@ -1,12 +1,12 @@
 # Leonardo Brito
 
-**Engenheiro de Dados e Automação**
+**Analista de Dados e Analytics Engineer**
 
 Atuo na área de Governança de uma operadora de telecom, construindo sistemas de dados a serviço de controle, auditoria e conformidade. Transformo planilhas manuais e processos espalhados em pipelines de ETL, integrações com ERP e dashboards em produção, e mais recentemente em uma camada de IA aplicada à operação.
 
 O que me diferencia é o foco em dados para governança e controle operacional, não apenas em visualização: auditoria de comissões, monitoramento de inadimplência, controle de acesso e rastreabilidade de manutenção. A maioria dos projetos aqui nasceu de um problema real que eu vi acontecer no dia a dia, como fechamento de comissão errado, manutenção de infraestrutura perdida ou dado de atendimento espalhado em três ferramentas. Cada um virou um sistema rodando em produção.
 
-> 💼 Aberto a novas oportunidades como Engenheiro de Dados ou de Automação.
+> 💼 Aberto a novas oportunidades como Analista de Dados ou Analytics Engineer.
 
 ## Projetos em destaque
 
