@@ -2,9 +2,9 @@
 
 **Engenheiro de Dados e Automação**
 
-Construo sistemas que substituem planilhas manuais, automatizam processos e conectam sistemas legados a novas camadas de análise. Trabalho no cruzamento entre dados e operação: pipelines de ETL, integração com ERP, dashboards em produção e, mais recentemente, uma camada de IA aplicada à operação.
+Atuo na área de Governança de uma operadora de telecom, construindo sistemas de dados a serviço de controle, auditoria e conformidade. Transformo planilhas manuais e processos espalhados em pipelines de ETL, integrações com ERP e dashboards em produção, e mais recentemente em uma camada de IA aplicada à operação.
 
-A maioria dos projetos aqui nasceu de problemas reais que eu vi acontecer no dia a dia: fechamento de comissão errado, manutenção de infraestrutura perdida, dado de atendimento espalhado em três ferramentas diferentes. Cada um virou um sistema rodando em produção.
+O que me diferencia é o foco em dados para governança e controle operacional, não apenas em visualização: auditoria de comissões, monitoramento de inadimplência, controle de acesso e rastreabilidade de manutenção. A maioria dos projetos aqui nasceu de um problema real que eu vi acontecer no dia a dia, como fechamento de comissão errado, manutenção de infraestrutura perdida ou dado de atendimento espalhado em três ferramentas. Cada um virou um sistema rodando em produção.
 
 > 💼 Aberto a novas oportunidades como Engenheiro de Dados ou de Automação.
 
