@@ -22,7 +22,7 @@ Dashboard analítico que unifica três fontes (VoIP em MongoDB, CRM/IXC em MySQL
 Monitoramento de mais de 17.000 ONUs de fibra óptica em tempo real, cruzando a API da SmartOLT com o billing e um histórico próprio, com alertas autônomos na degradação de sinal.
 `Python` `Flask` `PostgreSQL` `MySQL` `REST`
 
-**[Canaã Performance](https://github.com/Leonardobrito95/canaa-performance)**
+**Canaã Performance**
 Sistema web para centralizar o registro e a auditoria de comissões de múltiplas equipes. Integra ao ERP IXC via MariaDB para validar contratos em tempo real e eliminar divergências no fechamento mensal.
 `Node.js` `TypeScript` `Vue 3` `PostgreSQL` `MariaDB` `Docker`
 
