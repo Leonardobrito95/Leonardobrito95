@@ -34,6 +34,18 @@ Dashboard executivo de performance para Call Center, integrando telefonia VoIP e
 Gestão de vistorias e manutenção preventiva de 8 pontos de infraestrutura de rede. Gera pendências automaticamente a partir dos problemas identificados, monitora prazos e envia alertas por e-mail antes do vencimento.
 `Python` `Flask` `PostgreSQL` `systemd`
 
+**[Estoque Dashboard](https://github.com/Leonardobrito95/estoque-dashboard)**
+Dashboard operacional com ETL próprio que extrai movimentações e materiais do ERP (IXC/MariaDB), transforma e carrega num PostgreSQL otimizado para leitura.
+`Node.js` `Express` `PostgreSQL` `MariaDB`
+
+**[Dashboard de Acompanhamento Pós-Instalação](https://github.com/Leonardobrito95/dashboard-pos-instalacao)**
+Mede a qualidade do contato pós-venda: quais clientes recém-instalados foram contatados, quem ficou esquecido, e como isso se relaciona com churn, lendo direto do sistema de chamados (IXC).
+`Python` `Flask` `MySQL`
+
+**[Portfólio de Relatórios Power BI](https://github.com/Leonardobrito95/powerbi-relatorios)**
+Catálogo de mais de 50 relatórios e modelos analíticos em Power BI cobrindo Call Center, Campo, Comercial, Estoque, Governança e Infraestrutura.
+`Power BI` `DAX` `Power Query`
+
 ## Stack
 
 ```
