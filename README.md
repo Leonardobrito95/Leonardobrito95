@@ -6,7 +6,7 @@ Atuo na área de Governança de uma operadora de telecom, construindo sistemas d
 
 O que me diferencia é o foco em dados para governança e controle operacional, não apenas em visualização: auditoria de comissões, monitoramento de inadimplência, controle de acesso e rastreabilidade de manutenção. A maioria dos projetos aqui nasceu de um problema real que eu vi acontecer no dia a dia, como fechamento de comissão errado, manutenção de infraestrutura perdida ou dado de atendimento espalhado em três ferramentas. Cada um virou um sistema rodando em produção.
 
-> 💼 Aberto a novas oportunidades como Analista de Dados ou Analytics Engineer.
+Aberto a novas oportunidades como Analista de Dados ou Analytics Engineer.
 
 ## Projetos em destaque
 
